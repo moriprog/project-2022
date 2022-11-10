@@ -17,8 +17,7 @@ public class Exercize3_2 {
         }
         System.out.println("入力した文字列");
         for(String str: gyou){
-            int i=0;
-            System.out.println("["+i+"]"+str);
+            System.out.println(str);
 
         }
     }
